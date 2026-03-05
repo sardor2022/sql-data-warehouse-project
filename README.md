@@ -108,7 +108,8 @@ This project is licensed under the [MIT License](LICENSE). You are free to use, 
 
 ## 🌟 About Me
 
-Hi there! I'm **Meliqoziyev Sardorbek**, 
+Hi there! I'm **Meliqoziyev Sardorbek**, Junior Data Scientist with hands on experience in data manipulation , clensing and integration using popular tools such as SQL, Python and Power Bi. 
 
 Let's stay in touch! Feel free to connect with me on the following platforms:
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sardorbek-meliqoziyev/)
